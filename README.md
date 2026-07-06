@@ -26,11 +26,6 @@ Systems Engineer specializing in front-end development (**React, Vue.js, TypeScr
 | **MERN APV** | Full-stack veterinary patient manager (MongoDB, Express, React, Node) | [Repo](https://github.com/kdelgado1998/MERN_APV_Frontend) |
 | **Travel Agency** | Server-rendered site with Node.js and Pug | [Repo](https://github.com/kdelgado1998/AgenciaViajesNode) |
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kdelgado1998&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdelgado1998&layout=compact)
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/keylor-delgado-castro-006222186) · keylordelgado@gmail.com
