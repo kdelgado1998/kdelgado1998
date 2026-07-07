@@ -2,7 +2,7 @@
 
 **Software Engineer · Front-End Developer · Data Analyst** — Costa Rica 🇨🇷
 
-## 🚀 [View my Portfolio →](https://zingy-bublanina-92a4ca.netlify.app/)
+## 🚀 [View my Portfolio →]([https://zingy-bublanina-92a4ca.netlify.app/](https://portafoliokeylordelgado.netlify.app/))
 
 Systems Engineer specializing in front-end development (**React, Vue.js, TypeScript**) and data analysis (**Power BI, SQL, Python**). Microsoft Azure certified (**AZ-104**).
 
